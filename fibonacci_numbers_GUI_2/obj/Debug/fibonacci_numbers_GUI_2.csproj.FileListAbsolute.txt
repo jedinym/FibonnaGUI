@@ -1,0 +1,10 @@
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\bin\Debug\fibonacci_numbers_GUI_2.exe.config
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\bin\Debug\fibonacci_numbers_GUI_2.exe
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\bin\Debug\fibonacci_numbers_GUI_2.pdb
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.csprojResolveAssemblyReference.cache
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.Properties.Resources.resources
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.csproj.GenerateResource.Cache
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.exe
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.pdb
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.frm_main.resources
+C:\Users\Mato\Desktop\Programy\C#\fibonacci_numbers_GUI_2\fibonacci_numbers_GUI_2\obj\Debug\fibonacci_numbers_GUI_2.csproj.CoreCompileInputs.cache
